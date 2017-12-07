@@ -1,0 +1,19 @@
+{
+  "name": "neptunpk/raider-helper",
+  "description": "Helper class for raider.io",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Kirill Pozdnikov",
+      "email": "neptunpk@gmail.com"
+    }
+  ],
+  "autoload": {
+    "files": ["RaiderHelper.php"]
+  },
+  "require": {
+    "php": ">=5.5"
+  }
+}
