@@ -35,8 +35,8 @@ class RaiderHelper
 }
 
  //Проверка работоспособности.
-$helper = new RaiderHelper();
-$result = $helper->getGuildRaidRanking("eu", "borean-tundra", "Пермские медведи");
+// $helper = new RaiderHelper();
+// $result = $helper->getGuildRaidRanking("eu", "borean-tundra", "Пермские медведи");
 ////$helper->setPawnSting('dfd');
 //$result = $helper->checkJob();
 //
@@ -51,5 +51,5 @@ $result = $helper->getGuildRaidRanking("eu", "borean-tundra", "Пермские 
 //    $result = $helper->getReport();
 //    sleep(2);
 //}
-var_dump($result);
+// var_dump($result);
 
